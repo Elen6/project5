@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "sqlite3": "^5.1.1",
+    "uuid": "^9.0.0"
+  },
+  "name": "project5",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elen6/project5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elen6/project5/issues"
+  },
+  "homepage": "https://github.com/Elen6/project5#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
